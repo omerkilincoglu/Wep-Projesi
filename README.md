@@ -1,6 +1,5 @@
 # Wep-Teknolojileri
 # Projenin içerdikleri sayfalar;
-
 #Ana sayfa:
 .Bu sayfada diğer tüm sayfaların bulunduğu sayfadır. 
 
