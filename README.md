@@ -1,19 +1,19 @@
 # Wep-Teknolojileri
 # Projenin içerdikleri sayfalar;
 
-Ana sayfa:
-Bu sayfada diğer tüm sayfaların bulunduğu sayfadır. 
+#Ana sayfa:
+.Bu sayfada diğer tüm sayfaların bulunduğu sayfadır. 
 
-Özgeçmiş sayfası:
-CV hazırlayıp bütün eğitim aşamaları ve başarımlarından bahsedilecek olan sayfadır. 
+#Özgeçmiş sayfası:
+.CV hazırlayıp bütün eğitim aşamaları ve başarımlarından bahsedilecek olan sayfadır. 
 
-Mirasımız sayfası:
-Şehrin herhangi bir kültürel mekânın tanımı 
+#Mirasımız sayfası:
+.Şehrin herhangi bir kültürel mekânın tanımı 
 Benim seçtiğim mekân ise, 
 şamda (Hamidiye Çarşısı).
 
-İlgilendiğim Alanlar sayfası:
-Kişisel ilgi alanlarından oluşacak.
+#İlgilendiğim Alanlar sayfası:
+.Kişisel ilgi alanlarından oluşacak.
 
 Şehrim sayfası:
  Benim yaşadığım şehrin güzelliğinden bahsedip bazı fotoğrafların eklemesi.
